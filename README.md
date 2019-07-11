@@ -1,6 +1,6 @@
 # Hero
-An interactive game inspired from the "books where you are the hero" made with Vue.js
+Un jeu interactif inspiré des "Livres dont vous êtes le héros", fait en Vue.js
 
-This is my first Vue.js project !
+C'est mon premier projet en Vue.js !
 
 http://herobaglia.netlify.com
